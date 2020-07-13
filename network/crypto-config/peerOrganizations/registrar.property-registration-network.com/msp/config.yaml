@@ -1,8 +1,0 @@
-NodeOUs:
-  Enable: true
-  ClientOUIdentifier:
-    Certificate: cacerts/ca.registrar.property-registration-network.com-cert.pem
-    OrganizationalUnitIdentifier: client
-  PeerOUIdentifier:
-    Certificate: cacerts/ca.registrar.property-registration-network.com-cert.pem
-    OrganizationalUnitIdentifier: peer
